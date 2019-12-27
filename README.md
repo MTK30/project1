@@ -1,3 +1,8 @@
-# Project 1
+# Flask Project Based on CS50 
 
-Web Programming with Python and JavaScript
+	"Bibliophile" a Book Review System 
+	Techno Stack :
+		Flask
+		Jinja2 templates
+		postgresql (Hoisted on Heroku)
+
